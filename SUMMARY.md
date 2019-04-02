@@ -19,12 +19,18 @@
     * [Python](TODO.md)
     * [CoffeeScript](TODO.md)
     * [Dart](TODO.md)
-    
+* [Technology](TODO.md)
+  * [My current stack](TODO.md)
+  * [Apple](TODO.md)
+  * [Samsung](TODO.md)
+  * [Microsoft](TODO.md)
+  
+  
 * [Health](TODO.md)
  * [Bodybuilding](TODO.md)
    * [Hypertrophy](TODO.md)
    * [Training plans](TODO.md)
- * [Diets]
+ * [Diets](TODO.md)
    * [Calorie Counting](TODO.md)
    * [IIFYM](TODO.md)
    * [Ketogenic](TODO.md)
